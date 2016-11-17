@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+#wrapper{
+  background: linear-gradient(#009900,#ff3300,#ffff1a);
+  width: 970px;
+  height: 600px;
+  margin: 100px;
+}
+#me{
+  font-family: 'Palanquin', sans-serif;;
+}
+#me img{
+  width: 300px;
+  position: relative;
+  left: 600px;
+}
+#me p{
+  width: 300px;
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+#me span{
+  position: relative;
+  right: 205px;
+  bottom: 80px;
+}
+#me h1{
+  position: relative;
+  left: 100px;
+}
+#me a{
+  color: #ffffff;
+  text-decoration: none;
+}
